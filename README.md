@@ -7,7 +7,7 @@ This repository provides a Fishbot robot model that supports simulation in ROS 2
 ```bash
 mkdir -p fishbot_ws/src
 cd fishbot_ws/src
-git clone xxx
+git clone https://github.com/hhchunxiang/fishbot_description.git
 cd ..
 colcon build
 ```
